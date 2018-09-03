@@ -20,7 +20,7 @@ Fun jumpapp ;
 
 __asm void MSR_MSP(uint32_t addr) 
 {
-    MSR MSP, r0 			//set Main Stack value
+    MSR MSP, r0 			//设置main函数入口地址
     BX r14
 }
 
