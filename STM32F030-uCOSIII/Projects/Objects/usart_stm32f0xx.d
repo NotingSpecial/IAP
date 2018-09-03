@@ -1,0 +1,9 @@
+.\objects\usart_stm32f0xx.o: D:\ruanjian\keil5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\CMSIS\Driver\USART_STM32F0xx.c
+.\objects\usart_stm32f0xx.o: D:\ruanjian\keil5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\CMSIS\Driver\USART_STM32F0xx.h
+.\objects\usart_stm32f0xx.o: D:\ruanjian\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart_stm32f0xx.o: D:\ruanjian\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\usart_stm32f0xx.o: D:\ruanjian\keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\usart_stm32f0xx.o: D:\ruanjian\keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Driver\Include\Driver_USART.h
+.\objects\usart_stm32f0xx.o: D:\ruanjian\keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Driver\Include\Driver_Common.h
+.\objects\usart_stm32f0xx.o: D:\ruanjian\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\usart_stm32f0xx.o: D:\ruanjian\keil5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal.h

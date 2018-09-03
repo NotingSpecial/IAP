@@ -1,0 +1,36 @@
+T321C 5621:931 SEGGER J-Link V6.30h Log File (0000ms, 26039ms total)
+T321C 5621:931 DLL Compiled: Mar 16 2018 18:02:51 (0000ms, 26039ms total)
+T321C 5621:931 Logging started @ 2018-09-03 10:45 (0000ms, 26039ms total)
+T321C 5621:931 JLINK_SetWarnOutHandler(...) (0000ms, 26039ms total)
+T321C 5621:931 JLINK_OpenEx(...)
+Firmware: J-Link V9 compiled Mar  2 2018 17:07:57
+Hardware: V9.40
+S/N: 59408842
+Feature(s): RDI, GDB, FlashDL, FlashBP, JFlash
+TELNET listener socket opened on port 19021Device "CORTEX-M0" selected.WEBSRV 
+Starting webserver (0100ms, 26139ms total)
+T321C 5621:931 WEBSRV Webserver running on local port 19080 (0100ms, 26139ms total)
+T321C 5621:931   returns O.K. (0100ms, 26139ms total)
+T321C 5622:031 JLINK_GetEmuCaps()  returns 0xB9FF7BBF (0000ms, 26139ms total)
+T321C 5622:032 JLINK_TIF_GetAvailable(...) (0000ms, 26139ms total)
+T321C 5622:032 JLINK_SetErrorOutHandler(...) (0000ms, 26139ms total)
+T321C 5622:032 JLINK_ExecCommand("ProjectFile = "C:\Users\Administrator\Desktop\Ô´´úÂë\20180903IAP\STM32F030-uCOSIII\Projects\JLinkSettings.ini"", ...). Device "CORTEX-M0" selected.  returns 0x00 (0001ms, 26140ms total)
+T321C 5622:033 JLINK_ExecCommand("Device = STM32F030RCTx", ...). Device "CORTEX-M0" selected.  returns 0x00 (0000ms, 26140ms total)
+T321C 5622:033 JLINK_ExecCommand("DisableConnectionTimeout", ...).   returns 0x01 (0000ms, 26140ms total)
+T321C 5622:033 JLINK_GetHardwareVersion()  returns 0x16F30 (0000ms, 26140ms total)
+T321C 5622:033 JLINK_GetDLLVersion()  returns 63008 (0000ms, 26140ms total)
+T321C 5622:033 JLINK_GetFirmwareString(...) (0000ms, 26140ms total)
+T321C 5622:033 JLINK_GetDLLVersion()  returns 63008 (0000ms, 26140ms total)
+T321C 5622:033 JLINK_GetCompileDateTime() (0000ms, 26140ms total)
+T321C 5622:033 JLINK_GetFirmwareString(...) (0000ms, 26140ms total)
+T321C 5622:033 JLINK_GetHardwareVersion()  returns 0x16F30 (0000ms, 26140ms total)
+T321C 5622:033 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0001ms, 26141ms total)
+T321C 5622:034 JLINK_SetSpeed(50000) (0000ms, 26141ms total)
+T321C 5622:034 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)  returns JLINKARM_RESET_TYPE_NORMAL (0000ms, 26141ms total)
+T321C 5622:034 JLINK_Reset() >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF>
+ >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF>JLINK_GetId() >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF>  returns 0x00000000 (0282ms, 27642ms total)
+T321C 5623:535 JLINK_GetId() >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF> >0x10B TIF> >0x10F TIF>  returns 0x00000000 (0285ms, 27927ms total)
+T321C 5623:826 JLINK_GetFirmwareString(...) (0001ms, 27928ms total)
+T321C 5628:403 JLINK_Close() (0010ms, 27938ms total)
+T321C 5628:403  (0010ms, 27938ms total)
+T321C 5628:403 Closed (0010ms, 27938ms total)
